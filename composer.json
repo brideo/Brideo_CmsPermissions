@@ -1,0 +1,15 @@
+{
+    "name": "Brideo/CmsPermissions",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Add all directives to the white-list in Magento",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Nathan McBride",
+            "email":"nathan@brideo.co.uk"
+        }
+    ]
+}

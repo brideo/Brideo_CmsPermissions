@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Brideo_CmsPermissions>
+            <version>1.0.0</version>
+        </Brideo_CmsPermissions>
+    </modules>
+    <global>
+        <models>
+            <brideo_cmspermissions>
+                <class>Brideo_CmsPermissions_Model</class>
+            </brideo_cmspermissions>
+        </models>
+        <resources>
+            <brideo_cmspermissions_setup>
+                <setup>
+                    <module>Brideo_CmsPermissions</module>
+                    <class>Brideo_CmsPermissions_Model_Setup</class>
+                </setup>
+            </brideo_cmspermissions_setup>
+        </resources>
+    </global>
+</config>

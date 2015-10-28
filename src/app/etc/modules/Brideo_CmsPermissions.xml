@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Brideo_CmsPermissions>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends></depends>
+        </Brideo_CmsPermissions>
+    </modules>
+</config>
