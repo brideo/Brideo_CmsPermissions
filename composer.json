@@ -1,5 +1,5 @@
 {
-    "name": "Brideo/CmsPermissions",
+    "name": "brideo/cmspermissions",
     "license": "OSL-3.0",
     "type": "magento-module",
     "description": "Add all directives to the white-list in Magento",
